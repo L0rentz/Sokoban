@@ -7,7 +7,7 @@
 
 ## Usage
 
-./my_sokoban map
+./my_sokoban map  
 ./my_sokoban [-h]
 
 ## Introduction
